@@ -1,6 +1,6 @@
-# Ibnu Zaky Fauzi - 2306161870
-
 ## **Simulasi Gerak Jatuh Bebas Menggunakan Metode Numerik Euler**
+
+# Ibnu Zaky Fauzi - 2306161870
 
 ## Deskripsi Program
 
